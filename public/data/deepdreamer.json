@@ -1,0 +1,13 @@
+{
+ "name": "Avinash Gola",
+ "location": "Delhi",
+ "bio": "Aspiring Software Engineer, interested in open-source.",
+ "avatar": "https://github.com/DeepDreamerrX.png",
+ "portfolio": "https://github.com/DeepDreamerrX",
+ "skills": ["Machine learning", "Web Development", "App development"],
+ "social": {
+   "GitHub": "https://github.com/DeepDreamerrX",
+   "Twitter": "",
+   "LinkedIn": "https://www.linkedin.com/in/avinashgola1607/"
+ }
+},
